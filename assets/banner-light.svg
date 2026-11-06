@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="272" viewBox="0 0 1200 272" role="img" aria-labelledby="t d">
+  <title id="t">Johnny Chen</title>
+  <desc id="d">Johnny Chen. Open to Summer 2027 internships. A Software Engineer, A Computer Science Student, An AI/ML Researcher, A Web Developer.</desc>
+  <defs>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="0.45" stop-color="#0d9488"/>
+      <stop offset="1" stop-color="#0284c7"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @font-face { font-family: "DM Serif Display"; src: url(data:font/woff2;base64,d09GMgABAAAAAAQAAA4AAAAABvAAAAOuAAUzMwAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgVwcKgZgAGQRCAqGPIUpATYCJAMkCxQABCAFBgcgG1QFKB6FcbNzRIhKE0+ztmgs2xFCtGyZ+dpwtSsQtlWHQ+GqsKcxGodU4FBIhNyff0//pB1vBtaejfSz2aOddp8PVP8DoEv//++d/1X6sk74sCmYBpzIGvcvah0fewAHFAcUrmEB5Z+boIFSttmQ3XORICYm1uDar1KBPpVICqElBLo2eKMdx6fmgt1LVW872KlD+V8gnuu628EKgVDX0RYklLhweurd7I0emlpoQvnjm0cByodQ/WUov0KPvLHoWRZf+m8FxftYm/CiLvwi5zhU14Dk4GoJSk2oh1xjQ9MtKhmrR/fX0wubDQ3yg1YI4MotE4/gHWIQ47D27C4jASKJDNVt/u1h+rGMojJ+afObV9CRDDyHLpCZ++SYA/rxfYxkdRp1GCpiov2H3UmHrbTcIjML6HCU0gg6AlMvigSLB4CZeicg7Xq7GxwrncrBQVdlMJkwYlqlhZPGoDyUv3SrYuFGZKAoqIxGnDyk3LSNW4DnHqbyDDcx4hhOHlGrF5DMZdMYYconFArMFjY+F4OK0lFUA2k0QrXYxeaBsmta190UWnJ1kuE4lYtPm3CMeQgzJ5YqGFiBay4cW94AWS2RuwK6kUsntiLDZVXs8QOJOxu8GIIfLIBUuD4COEOCovLJU4yek9N3fJdzTuQZTmLEKZw8wnbdol20T1i89AwrMJw+wi4qWXa1YjOrkKLaHKuWpyd/Xld+AFFZMK5NCKpgL6QPI6+MuePMZxcZweVhgTNHR/xmloYGiwpVyvAubRWizVzQwIXWiVeciNfG4fTjgnh7VY5ZakCE+QXabO2vBmSBChgXXS9WO06Es6I748HuP6rE17M4GGeoNNByWZ7sfX/n4mf1YYkJbaFhXRnZCd2dIev4ekYhZH5Zt0orgNndF6JguN7zfYx2aX7Qp8Z0mSqvqNSkNI7Ld79u9ArtDVEGq3ZIGJ7rS5XBXQjmuvfUyiAG5fMYbQ1aMuJeoNRGxycki5RFevQGndMoIiIjdSG5SrUewXiY2hEe2pOeHtnVGZaQ0BHq1mRkhHa3h6c4Sxc51ZWVG4NFUukmp7rysofcBO//qudCXheb7XKuoax8ZuWLM7eqvzEZ6Kd1QL5df4NttUN/eF0sIlF+Pbt/9UFFY1oDAAQaRz7tsbNPVtiHfrWyp78AfM8H+wLwN2N8AMsyzijaCaApQfDjxKwqcoM5gFFvJ7/ffZaAS2yDVvwGVsYCI6PBJcXAShZY+kGg4+DtoapqqjFXDnQIAA==) format("woff2"); }
+    @font-face { font-family: "Syne"; font-weight: 700; src: url(data:font/woff2;base64,d09GMgABAAAAAAT4AA8AAAAACQwAAASgAAIzMwAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgjQcKgZgP1NUQVQqAGwRCAqIPIZwATYCJANMCygABCAFTAcgGxMHUZRQzrQQPxKyU8wLY+MiDMOhVvZGRRGNNngZD//t9799Zu57Xw23ZBLFm7gl80yESmPRTEqnuTX4d6jOnKDaPRgRcTCaWk5SPV52/gMC+PzfO21M3hhIHGia2W0O/YOyR431srVBvtmL1j6exkUJbsBAMHNr7qTMMBLduWn06N3dCzQCkhAahUC9EXCQc+YtWSZo3+ZjBwQpoPwvEHu3HzlgMgKhkNRK6s2E0AqNrJ8UeRCyQr12CPXlm5KifFO1vBflT1lHoHHRbTVFy1H5JuUvBpKGDu0jN9QI1c6kWvWaNAsRanFaoYIqyJKQNQ7II14YGDKe1+Y6So4mpm7qpelUeqJCup5WARZ3U7EhScQE1Tl4fnz5hl0whDHf6v1KfhzfERB/0nUMgRJCrUAnBAZAnty561hUkAREXXoCEjI6oZy+j7YK0C4ESjIEBg6ZkJSGsQRtk1DSPUL5q3zpBb8zTjnuWAG/E6L8rwWhA8AoQCcQE4G4i3bAAACELISQcrQUL0GCxkKo1saQ1j796ggl1O/YdWitXaDmSotGTda2aD7FThgNdTVyN9cM1Sc2KrMCqspGQhPgZsoEimujo9UtSmf5fIhRvx+e7fWCnzwxzQ4Q0CloFgCAYUYEzn6MGH0EBThAi3kNuScQfHnUQw7ceUKI8novgqAY3eeDIJB9ZPdoM7z2oRee7d9PZE75TNd8a/EGaNMSpeCdJ73Cq7OCg8mMR4fcwaB5K4yG2lEwkvcmj6+HiXjnG8v/zFS5IS4QNIe/hh6P6PfdEhOgTR5nuwg+cOaJHREMdkH12IeB6z8390zvbv60cUUtuNiPaEa86vVM97intTGwET6X3S7I1b4fOXeW5tz68UQl4OX4gogzDfUuCLnpuwGjxzQlS2vrGoAbHTuq6upqZUepNk1PsaBULkduD0aj7scIBfKf+4vB+Yd1OcSneKKfGBPpmb6Q5IoVEbP1dFq2VoRzRZGAcvpxeVMO0yQo+j9dGrHILwTWiGukVZ6FmSt4wezf7804ytaigr0UHEh9Nh1bZU2i4LmR3xPiB4xhwinVpQmywjxeEZVjHC52zlnWhageo9nwQo4usyiM9lkbemO6I46Xl87F0BmmoeJKSWOSGp+oBOHTdjXvCgv0ZHnAusRaTzcnw83n2nLqQunMxtBuisulaE63p1ZBV9UkjE2tSmCoQAnsmkdXtxkM6g5YXa45dKiIwDbOcrwuAyPC4zESbSYBr8/Einfg8voMsGDZRrmksyKywpozn1pexEmKOXQYw1ZgYodyWeZerJ5ZHiXJb8xO0ryW5oGU0WZ6Mzl6bbV0I4uiqqVNrK0fVa+6DdCMKeWXdCf+GQykBfHf0LIurYufZ36+EEiTJqX94w+5W2b/rc35A7xcMK8J3ndE/dBZ1uXedANVCQSfmVSx2EAnQkKoszvihs05LM1nKGOOEmOosks75pum5BDyPJMy3TMkPdKZW8M+r0xJLZLTuKHpghFpoalhho8IdCBAUYOQy0VDlmXjoERRJ2lGtYuKRs271anVj06lap0alGpjTqlaeLgaHXiaNaiAAso6chUA) format("woff2"); }
+    @font-face { font-family: "JetBrains Mono"; font-weight: 500; src: url(data:font/woff2;base64,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) format("woff2"); }
+    .name { font-family: "DM Serif Display", Georgia, serif; font-size: 112px; letter-spacing: -2px; }
+    .badge { font-family: "Syne", "Segoe UI", sans-serif; font-weight: 700; font-size: 17px; letter-spacing: 1.6px; }
+    .mono { font-family: "JetBrains Mono", ui-monospace, monospace; font-weight: 500; font-size: 32px; fill: #0f766e; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 1.8s ease-in-out infinite; }
+    .caret { animation: blink 0.75s step-end infinite; }
+    @keyframes pulse { 0%, 100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.5); opacity: 0.6; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    .p0 { animation: show0 20.26s step-end infinite; } .c0 { animation: type0 20.26s infinite; }
+    .p1 { animation: show1 20.26s step-end infinite; } .c1 { animation: type1 20.26s infinite; }
+    .p2 { animation: show2 20.26s step-end infinite; } .c2 { animation: type2 20.26s infinite; }
+    .p3 { animation: show3 20.26s step-end infinite; } .c3 { animation: type3 20.26s infinite; }
+    @keyframes type0 { 0% { transform: translateX(364.80px); animation-timing-function: linear; } 10.859% { transform: translateX(364.80px); animation-timing-function: steps(19, end); } 15.548% { transform: translateX(0.00px); animation-timing-function: linear; } 91.560% { transform: translateX(0.00px); animation-timing-function: steps(19, end); } 100% { transform: translateX(364.80px); animation-timing-function: linear; } }
+    @keyframes show0 { 0% { opacity: 1; } 15.548% { opacity: 0; } 91.560% { opacity: 1; } }
+    @keyframes type1 { 0% { transform: translateX(0.00px); animation-timing-function: linear; } 17.522% { transform: translateX(0.00px); animation-timing-function: steps(26, end); } 29.072% { transform: translateX(499.20px); animation-timing-function: linear; } 37.957% { transform: translateX(499.20px); animation-timing-function: steps(26, end); } 44.373% { transform: translateX(0.00px); animation-timing-function: linear; } 100% { transform: translateX(0.00px); } }
+    @keyframes show1 { 0% { opacity: 0; } 17.522% { opacity: 1; } 44.373% { opacity: 0; } }
+    @keyframes type2 { 0% { transform: translateX(0.00px); animation-timing-function: linear; } 46.347% { transform: translateX(0.00px); animation-timing-function: steps(19, end); } 54.788% { transform: translateX(364.80px); animation-timing-function: linear; } 63.672% { transform: translateX(364.80px); animation-timing-function: steps(19, end); } 68.361% { transform: translateX(0.00px); animation-timing-function: linear; } 100% { transform: translateX(0.00px); } }
+    @keyframes show2 { 0% { opacity: 0; } 46.347% { opacity: 1; } 68.361% { opacity: 0; } }
+    @keyframes type3 { 0% { transform: translateX(0.00px); animation-timing-function: linear; } 70.336% { transform: translateX(0.00px); animation-timing-function: steps(15, end); } 76.999% { transform: translateX(288.00px); animation-timing-function: linear; } 85.884% { transform: translateX(288.00px); animation-timing-function: steps(15, end); } 89.585% { transform: translateX(0.00px); animation-timing-function: linear; } 100% { transform: translateX(0.00px); } }
+    @keyframes show3 { 0% { opacity: 0; } 70.336% { opacity: 1; } 89.585% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="1199" height="271" rx="20" fill="#ffffff" stroke="#e2e8f0"/>
+
+  <g stroke="#0d9488" stroke-opacity="0.16" stroke-width="1">
+    <line x1="70" y1="56" x2="165" y2="34"/>
+    <line x1="70" y1="56" x2="118" y2="120"/>
+    <line x1="118" y1="120" x2="60" y2="200"/>
+    <line x1="60" y1="200" x2="175" y2="234"/>
+    <line x1="118" y1="120" x2="232" y2="164"/>
+    <line x1="1130" y1="50" x2="1040" y2="30"/>
+    <line x1="1130" y1="50" x2="1088" y2="120"/>
+    <line x1="1088" y1="120" x2="1150" y2="190"/>
+    <line x1="1150" y1="190" x2="1032" y2="232"/>
+    <line x1="1088" y1="120" x2="972" y2="170"/>
+  </g>
+  <g>
+    <circle cx="70" cy="56" r="4.5" fill="#0d9488" fill-opacity="0.45"/>
+    <circle cx="165" cy="34" r="2.5" fill="#0ea5e9" fill-opacity="0.4"/>
+    <circle cx="118" cy="120" r="3" fill="#0ea5e9" fill-opacity="0.35"/>
+    <circle cx="60" cy="200" r="3.5" fill="#0d9488" fill-opacity="0.4"/>
+    <circle cx="175" cy="234" r="2.5" fill="#0d9488" fill-opacity="0.35"/>
+    <circle cx="232" cy="164" r="2" fill="#0ea5e9" fill-opacity="0.3"/>
+    <circle cx="1130" cy="50" r="3.5" fill="#0d9488" fill-opacity="0.45"/>
+    <circle cx="1040" cy="30" r="2.5" fill="#0ea5e9" fill-opacity="0.4"/>
+    <circle cx="1088" cy="120" r="3" fill="#0d9488" fill-opacity="0.35"/>
+    <circle cx="1150" cy="190" r="4" fill="#0ea5e9" fill-opacity="0.4"/>
+    <circle cx="1032" cy="232" r="2.5" fill="#0d9488" fill-opacity="0.35"/>
+    <circle cx="972" cy="170" r="2" fill="#0d9488" fill-opacity="0.3"/>
+  </g>
+
+  <rect x="358.04" y="32" width="483.92" height="40" rx="20.0" fill="#ccfbf1"/>
+  <circle class="pulse" cx="384.54" cy="52.0" r="4.5" fill="#0d9488"/>
+  <text x="401.04" y="58.0" class="badge" fill="#0f766e">OPEN TO SUMMER 2027 INTERNSHIPS</text>
+
+  <text x="600.0" y="174" text-anchor="middle" class="name" fill="url(#name)">Johnny Chen</text>
+
+  <clipPath id="clip0"><rect x="413.60" y="206" width="376.80" height="46"/></clipPath>
+  <g class="phrase p0" clip-path="url(#clip0)" style="opacity:1">
+    <text x="417.60" y="238" class="mono">A Software Engineer</text>
+    <g class="cover c0" style="transform:translateX(364.80px)">
+      <rect x="416.60" y="208" width="388.80" height="42" fill="#ffffff"/>
+      <rect class="caret" x="418.60" y="211" width="3" height="35" rx="1" fill="#0d9488"/>
+    </g>
+  </g>
+  <clipPath id="clip1"><rect x="346.40" y="206" width="511.20" height="46"/></clipPath>
+  <g class="phrase p1" clip-path="url(#clip1)" style="opacity:0">
+    <text x="350.40" y="238" class="mono">A Computer Science Student</text>
+    <g class="cover c1" style="transform:translateX(0.00px)">
+      <rect x="349.40" y="208" width="523.20" height="42" fill="#ffffff"/>
+      <rect class="caret" x="351.40" y="211" width="3" height="35" rx="1" fill="#0d9488"/>
+    </g>
+  </g>
+  <clipPath id="clip2"><rect x="413.60" y="206" width="376.80" height="46"/></clipPath>
+  <g class="phrase p2" clip-path="url(#clip2)" style="opacity:0">
+    <text x="417.60" y="238" class="mono">An AI/ML Researcher</text>
+    <g class="cover c2" style="transform:translateX(0.00px)">
+      <rect x="416.60" y="208" width="388.80" height="42" fill="#ffffff"/>
+      <rect class="caret" x="418.60" y="211" width="3" height="35" rx="1" fill="#0d9488"/>
+    </g>
+  </g>
+  <clipPath id="clip3"><rect x="452.00" y="206" width="300.00" height="46"/></clipPath>
+  <g class="phrase p3" clip-path="url(#clip3)" style="opacity:0">
+    <text x="456.00" y="238" class="mono">A Web Developer</text>
+    <g class="cover c3" style="transform:translateX(0.00px)">
+      <rect x="455.00" y="208" width="312.00" height="42" fill="#ffffff"/>
+      <rect class="caret" x="457.00" y="211" width="3" height="35" rx="1" fill="#0d9488"/>
+    </g>
+  </g>
+</svg>
