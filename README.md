@@ -11,9 +11,9 @@
   <a href="mailto:jchen449@outlook.com"><img src="assets/badges/email.svg" height="28" alt="Email: jchen449@outlook.com"></a>
 </p>
 
-<p align="center">🟢 Open to Summer 2027 software engineering and AI/ML internships</p>
+<p align="center">🔎 Open to Summer 2027 software engineering and AI/ML internships 🔍</p>
 
-### 🔭 Now
+### 🧑‍💻 Current 
 
 - **Software Engineering Fellow** @ UB Forge: building [Anchor](https://github.com/Not-Depth/Anchor), an accessible campus navigation app for iPhone
 - **LLM/AI Researcher** @ Algoverse: configured and validated a GPU-accelerated research environment
@@ -25,7 +25,7 @@
 - **Rubik's Cube CFOP solver:** BFS move search with quaternion-driven Three.js animation, migrated to React
 - **Data Analyst Intern** @ Sea Tow Foundation: streamlined data workflows tracking 10,000+ units
 
-### 🧰 Stack
+### 🛠️ Stack 
 
 <p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/python-dark.svg"><img src="assets/icons/python-light.svg" alt="Python" title="Python" width="36" height="36"></picture>
@@ -42,7 +42,3 @@
   <img src="assets/icons/git.svg" alt="Git" title="Git" width="36" height="36">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linux-dark.svg"><img src="assets/icons/linux-light.svg" alt="Linux" title="Linux" width="36" height="36"></picture>
 </p>
-
----
-
-<p align="center"><i>More at <a href="https://johnnychen.dev">johnnychen.dev</a></i></p>
