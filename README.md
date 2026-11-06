@@ -31,7 +31,6 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/aws-dark.svg"><img src="assets/icons/aws-light.svg" alt="AWS" title="AWS" width="36" height="36"></picture>
   <img src="assets/icons/git.svg" alt="Git" title="Git" width="36" height="36">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linux-dark.svg"><img src="assets/icons/linux-light.svg" alt="Linux" title="Linux" width="36" height="36"></picture>
-  <br><sub>Python, Java, C/C++, JavaScript, Swift, SQL, React, PyTorch, CUDA, PostgreSQL, Docker, AWS, Git, Linux</sub>
 </p>
 
 Project deep dives live in my pinned repositories, starting with [Anchor](https://github.com/Not-Depth/Anchor): accessible campus navigation for iPhone with step-free routing, LiDAR proximity alerts and 40 unit tests.
