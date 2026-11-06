@@ -1,17 +1,31 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/sign-narrow.svg">
-  <img src="assets/sign.svg" width="100%" alt="Wayfinding sign for Johnny Chen, Computer Science, University at Buffalo, with his name repeated in braille. A route runs from You are here to Next stop: Summer 2027 internship.">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/header-narrow.svg">
+    <img src="assets/header.svg" width="100%" alt="Terminal: whoami prints Johnny Chen, CS at the University at Buffalo, class of 2028. Now: Software Engineering Fellow at UB Forge building Anchor, and LLM/AI Researcher at Algoverse. Next: looking for Summer 2027 SWE and AI/ML internships. Beside it, a Rubik's cube solves itself in CFOP phases.">
+  </picture>
+</p>
 
-<a href="https://johnnychen.dev"><img src="assets/plaques/portfolio.svg" height="48" alt="Portfolio: johnnychen.dev"></a>
-<a href="https://www.linkedin.com/in/johnnychen7"><img src="assets/plaques/linkedin.svg" height="48" alt="LinkedIn"></a>
-<a href="mailto:jchen449@outlook.com"><img src="assets/plaques/email.svg" height="48" alt="Email: jchen449@outlook.com"></a>
+<p align="center">
+  <a href="https://johnnychen.dev"><img src="assets/badges/portfolio.svg" height="28" alt="Portfolio: johnnychen.dev"></a>
+  <a href="https://www.linkedin.com/in/johnnychen7"><img src="assets/badges/linkedin.svg" height="28" alt="LinkedIn: johnnychen7"></a>
+  <a href="mailto:jchen449@outlook.com"><img src="assets/badges/email.svg" height="28" alt="Email: jchen449@outlook.com"></a>
+</p>
 
-I build accessible iOS software and do LLM/AI research. Graduating in May 2028 and looking for **Summer 2027 software engineering and AI/ML internships**.
+<p align="center">🟢 Open to Summer 2027 software engineering and AI/ML internships</p>
 
-- **Software Engineering Fellow, UB Forge:** selected as 1 of 14 fellows from 250+ applicants
-- **LLM/AI Researcher, Algoverse:** configured and validated a GPU-accelerated research environment
-- **Data Analyst Intern, Sea Tow Foundation:** streamlined data workflows tracking 10,000+ units
+### 🔭 Now
+
+- **Software Engineering Fellow** @ UB Forge: building [Anchor](https://github.com/Not-Depth/Anchor), an accessible campus navigation app for iPhone
+- **LLM/AI Researcher** @ Algoverse: configured and validated a GPU-accelerated research environment
+
+### ⭐ Highlights
+
+- Selected as **1 of 14** UB Forge fellows from 250+ applicants
+- **[Anchor](https://github.com/Not-Depth/Anchor):** step-free routing, LiDAR proximity alerts, 40 unit tests; 43North demo planned for Dec 2026
+- **Rubik's Cube CFOP solver:** BFS move search with quaternion-driven Three.js animation, migrated to React
+- **Data Analyst Intern** @ Sea Tow Foundation: streamlined data workflows tracking 10,000+ units
+
+### 🧰 Stack
 
 <p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/python-dark.svg"><img src="assets/icons/python-light.svg" alt="Python" title="Python" width="36" height="36"></picture>
@@ -29,4 +43,6 @@ I build accessible iOS software and do LLM/AI research. Graduating in May 2028 a
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linux-dark.svg"><img src="assets/icons/linux-light.svg" alt="Linux" title="Linux" width="36" height="36"></picture>
 </p>
 
-My pinned repositories have the details, starting with [Anchor](https://github.com/Not-Depth/Anchor): accessible campus navigation for iPhone with step-free routing, LiDAR proximity alerts and 40 unit tests.
+---
+
+<p align="center"><i>More at <a href="https://johnnychen.dev">johnnychen.dev</a></i></p>
