@@ -1,17 +1,13 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" width="100%" alt="Johnny Chen. Open to Summer 2027 internships. Software engineer, computer science student, AI/ML researcher and web developer.">
-  </picture>
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/sign-narrow.svg">
+  <img src="assets/sign.svg" width="100%" alt="Wayfinding sign for Johnny Chen, Computer Science, University at Buffalo, with his name repeated in braille. A route runs from You are here to Next stop: Summer 2027 internship.">
+</picture>
 
-<p align="center">
-  <a href="https://johnnychen.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/portfolio-dark.svg"><img src="assets/buttons/portfolio-light.svg" alt="Portfolio: johnnychen.dev" height="44"></picture></a>
-  <a href="https://www.linkedin.com/in/johnnychen7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/linkedin-dark.svg"><img src="assets/buttons/linkedin-light.svg" alt="LinkedIn" height="44"></picture></a>
-  <a href="mailto:jchen449@outlook.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/email-dark.svg"><img src="assets/buttons/email-light.svg" alt="Email: jchen449@outlook.com" height="44"></picture></a>
-</p>
+<a href="https://johnnychen.dev"><img src="assets/plaques/portfolio.svg" height="48" alt="Portfolio: johnnychen.dev"></a>
+<a href="https://www.linkedin.com/in/johnnychen7"><img src="assets/plaques/linkedin.svg" height="48" alt="LinkedIn"></a>
+<a href="mailto:jchen449@outlook.com"><img src="assets/plaques/email.svg" height="48" alt="Email: jchen449@outlook.com"></a>
 
-**Computer Science at the University at Buffalo, class of 2028.** I build accessible iOS software and do LLM/AI research. Looking for **Summer 2027 software engineering and AI/ML internships**.
+I build accessible iOS software and do LLM/AI research. Graduating in May 2028 and looking for **Summer 2027 software engineering and AI/ML internships**.
 
 - **Software Engineering Fellow, UB Forge:** selected as 1 of 14 fellows from 250+ applicants
 - **LLM/AI Researcher, Algoverse:** configured and validated a GPU-accelerated research environment
@@ -33,4 +29,4 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linux-dark.svg"><img src="assets/icons/linux-light.svg" alt="Linux" title="Linux" width="36" height="36"></picture>
 </p>
 
-Project deep dives live in my pinned repositories, starting with [Anchor](https://github.com/Not-Depth/Anchor): accessible campus navigation for iPhone with step-free routing, LiDAR proximity alerts and 40 unit tests.
+My pinned repositories have the details, starting with [Anchor](https://github.com/Not-Depth/Anchor): accessible campus navigation for iPhone with step-free routing, LiDAR proximity alerts and 40 unit tests.
