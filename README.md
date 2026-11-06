@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://johnnychen.dev"><img src="assets/badges/portfolio.svg" height="28" alt="Portfolio: johnnychen.dev"></a>
-  <a href="https://www.linkedin.com/in/johnnychen7"><img src="assets/badges/linkedin.svg" height="28" alt="LinkedIn: johnnychen7"></a>
+  <a href="https://www.linkedin.com/in/johnny-chen7/"><img src="assets/badges/linkedin.svg" height="28" alt="LinkedIn: johnny-chen7"></a>
   <a href="mailto:jchen449@outlook.com"><img src="assets/badges/email.svg" height="28" alt="Email: jchen449@outlook.com"></a>
 </p>
 
